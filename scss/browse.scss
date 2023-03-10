@@ -1,0 +1,349 @@
+@media screen and (max-width: 960px)
+{
+    .button .view{
+        display: flex;
+    }
+}
+
+.browse{
+    background-color: black;
+    text-align: center;
+
+
+    .button-holder{
+        position: relative;
+        display: flex;
+        margin-left: -30px;
+
+    .button{
+        margin-right: 5px;
+        margin-top: 10px;
+        background-color: gray;
+        border-radius: 30px;
+        cursor: pointer;
+        width: 128px;
+        height: 42px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.button{
+     background-color: gray;
+        border-radius: 30px;
+        cursor: pointer;
+        width: 128px;
+        height: 42px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.image .view{
+    display: none;
+}
+
+.image:hover .view{
+    display: flex;
+}
+
+
+    .rowOne{
+        display: flex;
+        
+        justify-content: space-evenly;
+        margin-bottom: 100px;
+        color: white;
+
+
+        .imageOne{
+            display: flex;
+            flex-direction: column;
+            margin-top: 100px;
+            width: 550px;
+          
+            .photo-holder{
+                display: flex;
+            .image{
+                width: 200px;
+                height: 200px;
+                background-image: url(../images/1.png);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;  
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+
+            }
+
+            .text{
+                margin-left: 20px;
+                width: 250px;
+            }
+        }
+        }
+
+        .imageTwo{
+            display: flex;
+            flex-direction: column;
+            margin-top: 100px;
+            width: 550px;
+
+              .photo-holder{
+                display: flex;
+            .image{
+                width: 200px;
+                height: 200px;
+                background-image: url(../images/1.png);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat; 
+             display: flex;
+            justify-content: center;
+            align-items: center; 
+            }
+
+            .text{
+                margin-left: 20px;
+                width: 250px;
+            }
+        }
+        }
+    }
+    .rowTwo{
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 50px;
+       color: white;
+
+        .imageOne{
+            display: flex;
+            flex-direction: column;
+            width: 550px;
+
+               .photo-holder{
+                display: flex;
+            .image{
+                width: 200px;
+                height: 200px;
+                background-image: url(../images/1.png);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;  
+             display: flex;
+            justify-content: center;
+            align-items: center;
+            }
+
+            .text{
+                margin-left: 20px;
+                width: 250px;
+            }
+        }
+        }
+
+        .imageTwo{
+            display: flex;
+            flex-direction: column;
+            width: 550px;
+
+              .photo-holder{
+                display: flex;
+            .image{
+                width: 200px;
+                height: 200px;
+                background-image: url(../images/1.png);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;  
+             display: flex;
+            justify-content: center;
+            align-items: center;
+            }
+
+            .text{
+                margin-left: 20px;
+                width: 250px;
+            }
+        }
+        }
+    }
+    .rowThree{
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 50px;
+        color: white;
+
+        .imageOne{
+            display: flex;
+            flex-direction: column;
+            width: 550px;
+
+               .photo-holder{
+                display: flex;
+            .image{
+                width: 200px;
+                height: 200px;
+                background-image: url(../images/1.png);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat; 
+             display: flex;
+            justify-content: center;
+            align-items: center; 
+            }
+
+            .text{
+                margin-left: 20px;
+                width: 250px;
+            }
+        }
+        }
+
+        .imageTwo{
+            display: flex;
+            flex-direction: column;
+            width: 550px;
+
+              .photo-holder{
+                display: flex;
+            .image{
+                width: 200px;
+                height: 200px;
+                background-image: url(../images/1.png);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;  
+             display: flex;
+            justify-content: center;
+            align-items: center;
+            }
+
+            .text{
+                margin-left: 20px;
+                width: 250px;
+            }
+        }
+        }
+    }
+    .rowFour{
+        display: flex;
+        justify-content: space-evenly;
+        margin-bottom: 50px;
+        color: white;
+
+        .imageOne{
+            display: flex;
+            width: 550px;
+            flex-direction: column;
+
+             .photo-holder{
+                display: flex;
+            .image{
+                width: 200px;
+                height: 200px;
+                background-image: url(../images/1.png);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;  
+             display: flex;
+            justify-content: center;
+            align-items: center;
+            }
+
+            .text{
+                margin-left: 20px;
+                width: 250px;
+            }
+        }
+        }
+
+        .imageTwo{
+            display: flex;
+            flex-direction: column;
+            width: 550px;
+
+               .photo-holder{
+                display: flex;
+            .image{
+                width: 200px;
+                height: 200px;
+                background-image: url(../images/1.png);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;  
+             display: flex;
+            justify-content: center;
+            align-items: center;
+            }
+
+            .text{
+                margin-left: 20px;
+                width: 250px;
+            }
+        }
+        }
+    }
+    .rowFive{
+        display: flex;
+        justify-content: space-evenly;
+        color: white;   
+
+        .imageOne{
+            display: flex;
+            flex-direction: column;
+            width: 550px;
+            margin-bottom: 50px;
+
+               .photo-holder{
+                display: flex;
+            .image{
+                width: 200px;
+                height: 200px;
+                background-image: url(../images/1.png);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;  
+             display: flex;
+            justify-content: center;
+            align-items: center;
+            }
+
+            .text{
+                margin-left: 20px;
+                width: 250px;
+            }
+        }
+        }
+
+        .imageTwo{
+            display: flex;
+            flex-direction: column;
+            width: 550px;
+            margin-bottom: 50px;
+
+               .photo-holder{
+                display: flex;
+            .image{
+                width: 200px;
+                height: 200px;
+                background-image: url(../images/1.png);
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+             display: flex;
+            justify-content: center;
+            align-items: center;  
+            }
+
+            .text{
+                margin-left: 20px;
+                width: 250px;
+            }
+        }
+        }
+    }
+}

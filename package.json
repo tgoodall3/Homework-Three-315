@@ -1,0 +1,14 @@
+{
+  "name": "homework-three-315",
+  "version": "1.0.0",
+  "description": "Homework Three",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "serve": "live-server"
+  },
+  "author": "Tyler Goodall",
+  "license": "ISC"
+}
